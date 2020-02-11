@@ -28,3 +28,16 @@ Install Node. js and NPM on Windows
 -----------------------------------
 
 https://phoenixnap.com/kb/install-node-js-npm-on-windows
+
+Product APIs
+-------------
+
+1. GET - http://localhost:3000/api/products
+
+2. POST - http://localhost:3000/api/product
+{
+    "name": "Colgate123",
+    "description": "toothpaste123"
+}
+
+3. DELETE - http://localhost:3000/api/product/5e42811e42a4f85698d881f3
