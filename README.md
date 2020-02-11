@@ -11,10 +11,13 @@ How to install Mongo DB
 Download the zip file from the below link
 https://www.mongodb.com/download-center/community
 
-Unzip in a folder Ex: c:\Users\sidgo01\mongodb
-Create another data folder like c:\Users\sidgo01\mongodb-data
-cd :\Users\sidgo01\mongodb\bin
-mongod.exe --dbpath=c:\Users\sidgo01\mongodb-data
+1. Unzip in a folder Ex: c:\Users\sidgo01\mongodb
+
+2. Create another data folder like c:\Users\sidgo01\mongodb-data
+
+3. cd :\Users\sidgo01\mongodb\bin
+
+4. mongod.exe --dbpath=c:\Users\sidgo01\mongodb-data
 
 Install MongoDB client - Robo 3T 1.3.1
 ---------------------------------------
