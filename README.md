@@ -3,6 +3,13 @@ git clone https://github.com/gopalsidleghatta/eCommerce
 Username for 'https://github.com': gplkrishna@gmail.com
 Password for 'https://gplkrishna@gmail.com@github.com': product123!@#
 
+npm init -y
+npm install express body-parser cors mongoose nodemon
+
+
+$ mongo
+> use product-catalog
+
 # eCommerce
 
 How to install Mongo DB
