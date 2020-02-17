@@ -1,3 +1,21 @@
+1) md c:\newCommerce
+2) cd c:\newCommerce
+3) git clone https://github.com/gopalsidleghatta/eCommerce
+
+server
+-------------
+4) cd c:\newCommerce\ecomm-app\server
+5) npm install
+6) node .\index.js
+
+client
+-------------
+
+7) cd c:\newCommerce\ecomm-app\ReactJSClient
+8) npm install
+9) npm start
+
+
 git clone https://github.com/gopalsidleghatta/eCommerce
 
 Username for 'https://github.com': gplkrishna@gmail.com
